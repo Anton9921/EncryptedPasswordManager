@@ -16,7 +16,7 @@ Error Handling: Provides warnings for invalid inputs and corrupted data.
 Installation:
 
 Clone the repository:
-git clone https://github.com/Anton9921/encrypted-password-manager.git
+git clone https://github.com/Anton9921/EncryptedPasswordManager.git
 
 Navigate to the project directory:
 cd encrypted-password-manager
